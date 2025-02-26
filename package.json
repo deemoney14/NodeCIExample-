@@ -5,19 +5,19 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "test": "mocha test.js"
+    "test": "mocha test/*.js --exit"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deemoney14/NodeCIExample.git"
+    "url": "git+https://github.com/deemoney14/NodeCIExample-.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/deemoney14/NodeCIExample/issues"
+    "url": "https://github.com/deemoney14/NodeCIExample-/issues"
   },
-  "homepage": "https://github.com/deemoney14/NodeCIExample#readme",
+  "homepage": "https://github.com/deemoney14/NodeCIExample-#readme",
   "dependencies": {
     "express": "^4.21.2"
   },
